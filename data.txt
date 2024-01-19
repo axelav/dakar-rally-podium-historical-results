@@ -1,0 +1,235 @@
+===Bikes===
+{| class="wikitable" style="font-size:85%; text-align:left;"
+|-
+! rowspan=2 width=4%|Year
+!colspan=2 style="width:32%; background:gold"|1st
+!colspan=2 style="width:32%; background:silver"|2nd
+!colspan=2 style="width:32%; background:#cc9966"| 3rd
+|-
+!width=17%|Driver!!width=15%|Bike
+!width=17%|Driver!!width=15%|Bike
+!width=17%|Driver!!width=15%|Bike
+|-
+|align=center|[[1979 Paris–Dakar Rally|1979]]
+|{{flagicon|FRA}} [[Cyril Neveu]] || [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Gilles Comte]]|| [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Philippe Vassard]]|| [[Honda XL 250]]
+|-
+|align=center|[[1980 Paris–Dakar Rally|1980]]
+|{{flagicon|FRA}} [[Cyril Neveu]] || [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Michel Merel]]|| [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Jean-Noël Pineau]]|| [[Yamaha XT 500]]
+|-
+|align=center|[[1981 Paris–Dakar Rally|1981]]
+|{{flagicon|FRA}} [[Hubert Auriol]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Serge Bacou]]|| [[Yamaha XT 500]]
+|{{flagicon|FRA}} [[Michel Merel]]|| [[Yamaha XT 500]]
+|-
+|align=center|[[1982 Paris–Dakar Rally|1982]]
+|{{flagicon|FRA}} [[Cyril Neveu]] || [[Honda XR 550]]
+|{{flagicon|FRA}} [[Philippe Vassard]]|| [[Honda XR 550]]
+|{{flagicon|FRA}} [[Grégoire Verhaeghe]]|| [[Barigo 500]]
+|-
+|align=center|[[1983 Paris–Dakar Rally|1983]]
+|{{flagicon|FRA}} [[Hubert Auriol]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Patrick Drobecq]]|| [[Honda XR 600]]
+|{{flagicon|FRA}} [[Marc Joineau]]|| [[Suzuki DR 500]]
+|-
+|align=center|[[1984 Paris–Dakar Rally|1984]]
+|{{flagicon|BEL}} [[Gaston Rahier]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Hubert Auriol]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Philippe Vassard]]|| [[Honda XLR 600]]
+|-
+|align=center|[[1985 Paris–Dakar Rally|1985]]
+|{{flagicon|BEL}} [[Gaston Rahier]] || [[BMW R80 G/S]]
+|{{flagicon|FRA}} [[Jean-Claude Olivier]] || [[Yamaha 660 Proto]]
+|{{flagicon|ITA}} [[Franco Picco]] || [[Yamaha 600 XT]]
+|-
+|align=center|[[1986 Paris–Dakar Rally|1986]]
+|{{flagicon|FRA}} [[Cyril Neveu]] || [[Honda NXR 780]]
+|{{flagicon|FRA}} [[Gilles Lalay]] || [[Honda NXR 780]]
+|{{flagicon|ITA}} [[Andrea Balestrieri]]|| [[Honda XL 600]]
+|-
+|align=center|[[1987 Paris–Dakar Rally|1987]]
+| {{flagicon|FRA}} [[Cyril Neveu]] || [[Honda NXR 750]]
+|{{flagicon|ITA}} [[Edi Orioli]] || [[Honda XL 600]]
+|{{flagicon|BEL}} [[Gaston Rahier]] || [[BMW R80 GS]]
+|-
+|align=center|[[1988 Paris–Dakar Rally|1988]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Honda NXR 800V]]
+|{{flagicon|ITA}} [[Franco Picco]] || [[Yamaha YZE 750]]
+|{{flagicon|FRA}} [[Gilles Lalay]] || [[Honda NXR 750]]
+|-
+|align=center|[[1989 Paris–Dakar Rally|1989]]
+| {{flagicon|FRA}} [[Gilles Lalay]] || [[Honda NXR 800V]]
+|{{flagicon|ITA}} [[Franco Picco]] || [[Yamaha YZE 750]]
+|{{flagicon|FRA}} [[Marc Morales]]|| [[Honda NXR 750]]
+|-
+|align=center|[[1990 Paris–Dakar Rally|1990]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Cagiva Elefant 900]]
+|{{flagicon|ESP}} [[Carles Mas]] || [[Yamaha YZE 750]]
+|{{flagicon|ITA}} [[Alessandro De Petri]]|| [[Cagiva Elefant 900]]
+|-
+|align=center|[[1991 Paris–Dakar Rally|1991]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 750T]]
+| {{flagicon|FRA}} [[Gilles Lalay]] || [[Yamaha YZE 750T]]
+| {{flagicon|FRA}} [[Thierry Magnaldi]]|| [[Yamaha YZE 750T]]
+|-
+|align=center|[[1991 Paris–Dakar Rally|1992]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+|{{flagicon|USA}} [[Danny LaPorte]] || [[Cagiva Elefant 900]]
+|{{flagicon|ESP}} [[Jordi Arcarons]] || [[Cagiva Elefant 900]]
+|-
+|align=center|[[1991 Paris–Dakar Rally|1993]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+|{{flagicon|FRA}} [[Thierry Charbonnier]]|| [[Yamaha YZE 850T]]
+|{{flagicon|ESP}} [[Jordi Arcarons]] || [[Yamaha YZE 850T]]
+|-
+|align=center|[[1994 Paris–Dakar Rally|1994]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Cagiva Elefant 900]]
+|{{flagicon|ESP}} [[Jordi Arcarons]] || [[Cagiva Elefant 900]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[Honda EXP-2]]
+|-
+|align=center|[[1995 Granada–Dakar Rally|1995]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+| {{flagicon|ESP}} [[Jordi Arcarons]] || [[Cagiva Elefant 900]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Cagiva Elefant 900]]
+|-
+|align=center|[[1996 Granada–Dakar Rally|1996]]
+| {{flagicon|ITA}} [[Edi Orioli]] || [[Yamaha YZE 850T]]
+| {{flagicon|ESP}} [[Jordi Arcarons]] || [[KTM LC4]]
+| {{flagicon|ESP}} [[Carlos Sotelo]]|| [[KTM LC4]]
+|-
+|align=center|[[1997 Paris–Dakar Rally|1997]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+|{{flagicon|ESP}} [[Oscar Gallardo]] || [[Cagiva Elefant 900]]
+|{{flagicon|FRA}} [[David Castera]]|| [[Yamaha YZE 850T]]
+|-
+|align=center|[[1998 Paris–Granada–Dakar Rally|1998]]
+| {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC4]]
+|{{flagicon|AUS}} [[Andrew Haydon (motorcyclist)|Andrew Haydon]]|| [[KTM LC4]]
+|-
+|align=center|[[1999 Granada–Dakar Rally|1999]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[BMW F650 RR]]
+|{{flagicon|FRA}} [[Thierry Magnaldi]]|| [[KTM LC4]]
+|{{flagicon|RSA}} [[Alfie Cox]]|| [[KTM LC4]]
+|-
+|align=center|[[2000 Paris–Dakar–Cairo Rally|2000]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[BMW F650 RR]]
+|{{flagicon|ESP}} [[Oscar Gallardo]] || [[BMW F650 RR]]
+|{{flagicon|USA}} [[Jimmy Lewis (motorcyclist)|Jimmy Lewis]]|| [[BMW R900 GS]]
+|-
+|align=center|[[2001 Paris–Dakar Rally|2001]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC4 660R]]
+|{{flagicon|ESP}} [[Jordi Arcarons]] || [[KTM LC4 660R]]
+|{{flagicon|CHI}} [[Carlo de Gavardo]] || [[KTM LC4 660R]]
+|-
+|align=center|[[2002 Arras–Madrid–Dakar Rally|2002]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC8 950R]]
+|{{flagicon|RSA}} [[Alfie Cox]]|| [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[KTM LC4 660R]]
+|-
+|align=center|[[2003 Dakar Rally|2003]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM LC4 660R]]
+|{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC8 950R]]
+|-
+|align=center|[[2004 Dakar Rally|2004]]
+|{{flagicon|ESP}} [[Nani Roma]] || [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Richard Sainct]] || [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM LC4 660R]]
+|-
+|align=center|[[2005 Dakar Rally|2005]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM LC4 660R]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM LC4 660R]]
+|{{flagicon|RSA}} [[Alfie Cox]]|| [[KTM LC4 660R]]
+|-
+|align=center|[[2006 Dakar Rally|2006]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM LC4 660R]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM LC4 660R]]
+|{{flagicon|ITA}} [[Giovanni Sala]] || [[KTM LC4 660R]]
+|-
+|align=center|[[2007 Dakar Rally|2007]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 690 Rally]]
+|{{flagicon|FRA}} [[David Casteu]]|| [[KTM 690 Rally]]
+|{{flagicon|USA}} [[Chris Blais]] || [[KTM 660 Rally]]
+|-
+|align=center|[[2008 Dakar Rally|2008]]
+|bgcolo=lightgrey colspan="8" style="text-align:center;"|''Cancelled''
+|-
+|align=center|[[2009 Dakar Rally|2009]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 690 Rally]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 690 Rally]]
+|{{flagicon|FRA}} [[David Frétigné]]|| [[Yamaha WR 450]]
+|-
+|align=center|[[2010 Dakar Rally|2010]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 690 Rally]]
+|{{flagicon|NOR}} [[Pål Anders Ullevålseter]] || [[KTM 690 Rally]]
+|{{flagicon|CHI}} [[Francisco López Contardo|Francisco López]] || [[Aprilia RXV 450]]
+|-
+|align=center|[[2011 Dakar Rally|2011]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 450 Rally]]
+|{{flagicon|POR}} [[Hélder Rodrigues]] || [[Yamaha WR 450F]]
+|-
+|align=center|[[2012 Dakar Rally|2012]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 450 Rally]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
+|{{flagicon|POR}} [[Hélder Rodrigues]] || [[Yamaha WR 450F]]
+|-
+|align=center|[[2013 Dakar Rally|2013]]
+|{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 450 Rally]]
+|{{flagicon|POR}} [[Ruben Faria]] || [[KTM 450 Rally]]
+|{{flagicon|CHI}} [[Francisco López Contardo|Francisco López]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2014 Dakar Rally|2014]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
+|{{flagicon|ESP}} [[Jordi Viladoms]]|| [[KTM 450 Rally]]
+|{{flagicon|FRA}} [[Olivier Pain]] || [[Yamaha WR 450F]]
+|-
+|align=center|[[2015 Dakar Rally|2015]]
+|{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
+|{{flagicon|POR}} [[Paulo Gonçalves (motorcyclist)|Paulo Gonçalves]] || [[Honda CRF 450]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2016 Dakar Rally|2016]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|{{flagicon|SVK}} [[Štefan Svitko]] || [[KTM 450 Rally]]
+|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Husqvarna FR 450]]
+|-
+|align=center|[[2017 Dakar Rally|2017]]
+|{{flagicon|GBR}} [[Sam Sunderland]] || [[KTM 450 Rally]]
+|{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
+|{{flagicon|ESP}} [[Gerard Farrés]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2018 Dakar Rally|2018]]
+|{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
+|{{flagicon|ARG}} [[Kevin Benavides]] || [[Honda CRF 450]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2019 Dakar Rally|2019]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
+|{{flagicon|GBR}} [[Sam Sunderland]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2020 Dakar Rally|2020]]
+|{{flagicon|USA}} [[Ricky Brabec]] || [[Honda CRF 450 Rally]]
+|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Husqvarna FR 450]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2021 Dakar Rally|2021]]
+|{{flagicon|ARG}} [[Kevin Benavides]] || [[Honda CRF 450 Rally]]
+|{{flagicon|USA}} [[Ricky Brabec]] || [[Honda CRF 450 Rally]]
+|{{flagicon|GBR}} [[Sam Sunderland]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2022 Dakar Rally|2022]]
+|{{flagicon|GBR}} [[Sam Sunderland]] || [[Gas Gas|Gas Gas 450 Rally]]
+|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Honda CRF450R|Honda CRF450 Rally]]
+|{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
+|-
+|align=center|[[2023 Dakar Rally|2023]]
+|{{flagicon|ARG}} [[Kevin Benavides]] ||  [[KTM 450 Rally]]
+|{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
+|{{flagicon|USA}} [[Skyler Howes]]|| [[Husqvarna Motorcycles|Husqvarna 450 Rally]]
+|}
