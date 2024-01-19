@@ -1,5 +1,22 @@
 import { stringify } from 'https://deno.land/std@0.207.0/csv/mod.ts'
 
+const countryCodeMap: Record<string, string> = {
+  FRA: 'France',
+  ESP: 'Spain',
+  ITA: 'Italy',
+  USA: 'United States',
+  AUS: 'Australia',
+  CHI: 'Chile',
+  POR: 'Portugal',
+  GBR: 'United Kingdom',
+  AUT: 'Austria',
+  BEL: 'Belgium',
+  RSA: 'South Africa',
+  ARG: 'Argentina',
+  NOR: 'Norway',
+  SVK: 'Slovakia',
+}
+
 const main = async () => {
   // https://en.wikipedia.org/wiki/Dakar_Rally#Bikes
   const text = await Deno.readTextFile('data/wikipedia-data.txt')
@@ -46,7 +63,7 @@ const main = async () => {
           name,
           manufacturer,
           model,
-          country,
+          country: countryCodeMap[country],
           place,
         })
 
