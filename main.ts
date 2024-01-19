@@ -77,7 +77,7 @@ const main = async () => {
   }
 
   const csv = stringify(results, {
-    columns: ['year', 'place', 'name', 'country', 'manufacter', 'model'],
+    columns: ['year', 'place', 'name', 'country', 'manufacturer', 'model'],
   })
 
   await Deno.writeTextFile('data/results.csv', csv)
