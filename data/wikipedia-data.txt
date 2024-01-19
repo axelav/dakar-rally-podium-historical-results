@@ -108,7 +108,7 @@
 |align=center|[[1998 Paris–Granada–Dakar Rally|1998]]
 | {{flagicon|FRA}} [[Stéphane Peterhansel]] || [[Yamaha YZE 850T]]
 |{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC4]]
-|{{flagicon|AUS}} [[Andrew Haydon (motorcyclist)|Andrew Haydon]]|| [[KTM LC4]]
+|{{flagicon|AUS}} [[Andrew Haydon]]|| [[KTM LC4]]
 |-
 |align=center|[[1999 Granada–Dakar Rally|1999]]
 |{{flagicon|FRA}} [[Richard Sainct]] || [[BMW F650 RR]]
@@ -118,7 +118,7 @@
 |align=center|[[2000 Paris–Dakar–Cairo Rally|2000]]
 |{{flagicon|FRA}} [[Richard Sainct]] || [[BMW F650 RR]]
 |{{flagicon|ESP}} [[Oscar Gallardo]] || [[BMW F650 RR]]
-|{{flagicon|USA}} [[Jimmy Lewis (motorcyclist)|Jimmy Lewis]]|| [[BMW R900 GS]]
+|{{flagicon|USA}} [[Jimmy Lewis]]|| [[BMW R900 GS]]
 |-
 |align=center|[[2001 Paris–Dakar Rally|2001]]
 |{{flagicon|ITA}} [[Fabrizio Meoni]] || [[KTM LC4 660R]]
@@ -166,7 +166,7 @@
 |align=center|[[2010 Dakar Rally|2010]]
 |{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 690 Rally]]
 |{{flagicon|NOR}} [[Pål Anders Ullevålseter]] || [[KTM 690 Rally]]
-|{{flagicon|CHI}} [[Francisco López Contardo|Francisco López]] || [[Aprilia RXV 450]]
+|{{flagicon|CHI}} [[Francisco López]] || [[Aprilia RXV 450]]
 |-
 |align=center|[[2011 Dakar Rally|2011]]
 |{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
@@ -181,7 +181,7 @@
 |align=center|[[2013 Dakar Rally|2013]]
 |{{flagicon|FRA}} [[Cyril Despres]] || [[KTM 450 Rally]]
 |{{flagicon|POR}} [[Ruben Faria]] || [[KTM 450 Rally]]
-|{{flagicon|CHI}} [[Francisco López Contardo|Francisco López]] || [[KTM 450 Rally]]
+|{{flagicon|CHI}} [[Francisco López]] || [[KTM 450 Rally]]
 |-
 |align=center|[[2014 Dakar Rally|2014]]
 |{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
@@ -190,13 +190,13 @@
 |-
 |align=center|[[2015 Dakar Rally|2015]]
 |{{flagicon|ESP}} [[Marc Coma]] || [[KTM 450 Rally]]
-|{{flagicon|POR}} [[Paulo Gonçalves (motorcyclist)|Paulo Gonçalves]] || [[Honda CRF 450]]
+|{{flagicon|POR}} [[Paulo Gonçalves]] || [[Honda CRF 450 Rally]]
 |{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
 |-
 |align=center|[[2016 Dakar Rally|2016]]
 |{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
 |{{flagicon|SVK}} [[Štefan Svitko]] || [[KTM 450 Rally]]
-|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Husqvarna FR 450]]
+|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Husqvarna 450 Rally]]
 |-
 |align=center|[[2017 Dakar Rally|2017]]
 |{{flagicon|GBR}} [[Sam Sunderland]] || [[KTM 450 Rally]]
@@ -205,7 +205,7 @@
 |-
 |align=center|[[2018 Dakar Rally|2018]]
 |{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
-|{{flagicon|ARG}} [[Kevin Benavides]] || [[Honda CRF 450]]
+|{{flagicon|ARG}} [[Kevin Benavides]] || [[Honda CRF 450 Rally]]
 |{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
 |-
 |align=center|[[2019 Dakar Rally|2019]]
@@ -215,7 +215,7 @@
 |-
 |align=center|[[2020 Dakar Rally|2020]]
 |{{flagicon|USA}} [[Ricky Brabec]] || [[Honda CRF 450 Rally]]
-|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Husqvarna FR 450]]
+|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Husqvarna 450 Rally]]
 |{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
 |-
 |align=center|[[2021 Dakar Rally|2021]]
@@ -224,12 +224,18 @@
 |{{flagicon|GBR}} [[Sam Sunderland]] || [[KTM 450 Rally]]
 |-
 |align=center|[[2022 Dakar Rally|2022]]
-|{{flagicon|GBR}} [[Sam Sunderland]] || [[Gas Gas|Gas Gas 450 Rally]]
-|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Honda CRF450R|Honda CRF450 Rally]]
+|{{flagicon|GBR}} [[Sam Sunderland]] || [[Gas Gas 450 Rally]]
+|{{flagicon|CHI}} [[Pablo Quintanilla]] || [[Honda CRF 450 Rally]]
 |{{flagicon|AUT}} [[Matthias Walkner]] || [[KTM 450 Rally]]
 |-
 |align=center|[[2023 Dakar Rally|2023]]
 |{{flagicon|ARG}} [[Kevin Benavides]] ||  [[KTM 450 Rally]]
 |{{flagicon|AUS}} [[Toby Price]] || [[KTM 450 Rally]]
-|{{flagicon|USA}} [[Skyler Howes]]|| [[Husqvarna Motorcycles|Husqvarna 450 Rally]]
+|{{flagicon|USA}} [[Skyler Howes]]|| [[Husqvarna 450 Rally]]
+|-
+|align=center|[[2024 Dakar Rally|2024]]
+|{{flagicon|USA}} [[Ricky Brabec]] ||  [[Honda CRF 450 Rally]]
+|{{flagicon|ZAF}} [[Ross Branch]] || [[Hero 450 Rally]]
+|{{flagicon|FRA}} [[Adrien Van Beveren]]|| [[Honda CRF 450 Rally]]
+
 |}

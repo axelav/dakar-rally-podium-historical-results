@@ -2,7 +2,7 @@ import { stringify } from 'https://deno.land/std@0.207.0/csv/mod.ts'
 
 const main = async () => {
   // https://en.wikipedia.org/wiki/Dakar_Rally#Bikes
-  const text = await Deno.readTextFile('data.txt')
+  const text = await Deno.readTextFile('data/wikipedia-data.txt')
 
   const lines: string[] = text.split('\n')
 
@@ -10,7 +10,8 @@ const main = async () => {
     year: number
     name: string
     country: string
-    bike: string
+    manufacturer: string
+    model: string
     place: number
   }[] = []
 
@@ -31,10 +32,20 @@ const main = async () => {
         const bike = regexResult[1].substring(2, regexResult[1].length - 2)
         const country = line.split('|')[2].substring(0, 3)
 
+        const bikeParts = bike.split(' ')
+        let manufacturer = bikeParts[0]
+        let model = bikeParts.slice(1).join(' ')
+
+        if (bike.includes('Gas Gas')) {
+          manufacturer = bikeParts.slice(0, 2).join(' ')
+          model = bikeParts.slice(2).join(' ')
+        }
+
         results.push({
           year,
           name,
-          bike,
+          manufacturer,
+          model,
           country,
           place,
         })
@@ -49,10 +60,10 @@ const main = async () => {
   }
 
   const csv = stringify(results, {
-    columns: ['year', 'place', 'name', 'country', 'bike'],
+    columns: ['year', 'place', 'name', 'country', 'manufacter', 'model'],
   })
 
-  await Deno.writeTextFile('results-v2.csv', csv)
+  await Deno.writeTextFile('data/results.csv', csv)
 }
 
 main()
