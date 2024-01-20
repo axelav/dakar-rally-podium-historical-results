@@ -235,7 +235,7 @@
 |-
 |align=center|[[2024 Dakar Rally|2024]]
 |{{flagicon|USA}} [[Ricky Brabec]] ||  [[Honda CRF 450 Rally]]
-|{{flagicon|RSA}} [[Ross Branch]] || [[Hero 450 Rally]]
+|{{flagicon|BWA}} [[Ross Branch]] || [[Hero 450 Rally]]
 |{{flagicon|FRA}} [[Adrien Van Beveren]]|| [[Honda CRF 450 Rally]]
 
 |}

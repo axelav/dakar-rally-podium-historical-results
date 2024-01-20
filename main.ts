@@ -15,6 +15,7 @@ const countryCodeMap: Record<string, string> = {
   ARG: 'Argentina',
   NOR: 'Norway',
   SVK: 'Slovakia',
+  BWA: 'Botswana',
 }
 
 const main = async () => {
